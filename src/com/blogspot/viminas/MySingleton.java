@@ -13,5 +13,12 @@ public class MySingleton {
 		}
 		return i;
 	}
-	
+/*	For Call to Test add the block below
+	public static void main(String[] args) {
+		MySingleton teste = new MySingleton();
+		teste.getI();
+		
+		teste.getI();
+	}
+	*/
 }
