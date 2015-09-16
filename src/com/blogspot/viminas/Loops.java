@@ -2,6 +2,12 @@ package com.blogspot.viminas;
 
 /**
  * Labeled loops: The break statement has two forms: labeled and unlabeled
+ * 
+ * To try use:	
+ * public static void main(String[] args) {
+		Loops l = new Loops();
+		l.FindString();
+	}
  * */
 public class Loops {
 
